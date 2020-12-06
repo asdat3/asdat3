@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm **[Quentin](https://twitter.com/Asdat_Industry)**</h1>
+<h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">A german Student. Owner of AsdatIndustries.</h3>
 
 
