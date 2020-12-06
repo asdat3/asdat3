@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Quentin</h1>
+<h1 align="center">Hi 👋, I'm [Quentin}(https://asdat.me)</h1>
 <h3 align="center">A german Student. Owner of AsdatIndustries.</h3>
 
 
@@ -8,7 +8,7 @@
 - 👨‍💻 How to reach my business [https://asdatindustries.com](https://asdatindustries.com)
 - 📫 How to reach me [https://twitter.com/kyudev](https://twitter.com/kyudev) or Discord: **KyuDev#0003**
 - 💬 Ask me about **generally Python, Lua, JS, etc.**
-- 💻 Websites: [https://asdatindustries.com](https://asdatindustries.com); [https://asdat.me](https://asdat.me); [https://kyneticaio.com](https://kyneticaio.com); [https://retail-cops.com](https://retail-cops.com)
+- 💻 Websites: [asdatindustries.com](https://asdatindustries.com); [asdat.me](https://asdat.me); [kyneticaio.com](https://kyneticaio.com); [retail-cops.com](https://retail-cops.com)
 
 
 <br />
