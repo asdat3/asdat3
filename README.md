@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm [Quentin](https://asdat.me)</h1>
+<h1 align="center">Hi 👋, I'm **[Quentin](https://twitter.com/Asdat_Industry)**</h1>
 <h3 align="center">A german Student. Owner of AsdatIndustries.</h3>
 
 
 - 🔭 I’m currently working on **[AsdatIndustries](https://twitter.com/Asdat_Industry)**
 - 🌱 I’m currently learning **Databases, front end development and Requests**
 - 👯 Hire me for **Monitors, Websites, Discord Bots and Custom Programs**
-- 👨‍💻 How to reach my business [https://asdatindustries.com](https://asdatindustries.com)
-- 📫 How to reach me [https://twitter.com/kyudev](https://twitter.com/kyudev) or Discord: **KyuDev#0003**
+- 👨‍💻 How to reach my business [asdatindustries.com](https://asdatindustries.com)
+- 📫 How to reach me [twitter.com/kyudev](https://twitter.com/kyudev) or Discord: **KyuDev#0003**
 - 💬 Ask me about **generally Python, Lua, JS, etc.**
 - 💻 Websites: [asdatindustries.com](https://asdatindustries.com); [asdat.me](https://asdat.me); [kyneticaio.com](https://kyneticaio.com); [retail-cops.com](https://retail-cops.com)
 
