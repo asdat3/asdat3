@@ -4,10 +4,11 @@
 
 - 🔭 I’m currently working on **[AsdatIndustries](https://twitter.com/Asdat_Industry)**
 - 🌱 I’m currently learning **Databases, front end development and Requests**
-- 👯 Hire me for **Discord Bots**
+- 👯 Hire me for **Monitors, Websites, Discord Bots and Custom Programs**
 - 👨‍💻 How to reach my business [https://asdatindustries.com](https://asdatindustries.com)
 - 📫 How to reach me [https://twitter.com/kyudev](https://twitter.com/kyudev) or Discord: **KyuDev#0003**
 - 💬 Ask me about **generally Python, Lua, JS, etc.**
+- 💻 Websites: [https://asdatindustries.com](https://asdatindustries.com); [https://asdat.me](https://asdat.me); [https://kyneticaio.com](https://kyneticaio.com); [https://retail-cops.com](https://retail-cops.com)
 
 
 <br />
