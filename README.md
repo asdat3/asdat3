@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Databases, front end development and Requests**
 - 👯 Hire me for **Monitors, Websites, Discord Bots and Custom Programs**
 - 👨‍💻 How to reach my business [asdatindustries.com](https://asdatindustries.com)
-- 📫 How to reach me [twitter.com/kyudev](https://twitter.com/kyudev) or Discord: **KyuDev#0003**
+- 📫 How to reach me [twitter.com/kyudev](https://twitter.com/kyudev) or Discord: **KyuDev#6645**
 - 💬 Ask me about **generally Python, Lua, JS, etc.**
 - 💻 Websites: [asdatindustries.com](https://asdatindustries.com); [asdat.me](https://asdat.me); [kyneticaio.com](https://kyneticaio.com); [retail-cops.com](https://retail-cops.com)
 
