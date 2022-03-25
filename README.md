@@ -2,11 +2,7 @@
 <h3 align="center">A german Student. Owner of AsdatIndustries.</h3>
 
 
-- 🔭 I’m currently working on **[KyuMonitors](https://kyumonitors.de)**
-- 🌱 I’m currently learning **Databases, front end development and Requests**
-- 👯 Hire me for **Monitors, Websites, Discord Bots and Custom Programs**
-- 👨‍💻 How to reach my business [asdatindustries.com](https://asdatindustries.com)
-- 📫 How to reach me [kyudev.xzy](kyudev.xzy) or Discord: **KyuDev#7217**
+- 📫 How to reach me [kyudev.xzy](kyudev.xzy) or Discord: **kyudev#7217**
 - 💻 Websites: [asdatindustries.com](https://asdatindustries.com); [kyudev.xzy](https://kyudev.xzy); [kyumonitors.de](https://kyumonitors.de)
 
 
