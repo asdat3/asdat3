@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me [kyudev.xzy](kyudev.xzy) or Discord: **kyudev#7217**
-- 💻 Websites: [asdatindustries.com](https://asdatindustries.com); [kyudev.xzy](https://kyudev.xzy); [kyumonitors.de](https://kyumonitors.de)
+- 💻 Websites: [copplanet.xyz](https://copplanet.xyz); [asdatindustries.com](https://asdatindustries.com); [kyudev.xzy](https://kyudev.xzy); [kyumonitors.de](https://kyumonitors.de)
 
 
 <br />
