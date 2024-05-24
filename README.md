@@ -2,9 +2,8 @@
 <h3 align="center">A german Student. Owner of AsdatIndustries.</h3>
 
 
-- 📫 How to reach me [kyudev.xzy](kyudev.xzy) or Discord: **kyudev#7217**
-- 💻 Websites: [copplanet.xyz](https://copplanet.xyz); [asdatindustries.com](https://asdatindustries.com); [kyudev.xzy](https://kyudev.xzy); [kyumonitors.de](https://kyumonitors.de)
-
+- 📫 How to reach me [kyudev.xzy](kyudev.xzy) or Discord: **kyudev**
+- 💻 Websites: [asdatindustries.com](https://asdatindustries.com); [kyudev.xzy](https://kyudev.xzy)...
 
 <br />
 
@@ -17,5 +16,5 @@
 </hr>
 
 <p align="center">
-<a href="https://twitter.com/kyudev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyudev" height="30" width="30" /></a>
+Automate it just to destroy
 </p>
