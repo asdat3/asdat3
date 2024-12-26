@@ -2,8 +2,8 @@
 <h3 align="center">A german Student. Owner of AsdatIndustries.</h3>
 
 
-- 📫 How to reach me [kyudev.xzy](kyudev.xzy) or Discord: **kyudev**
-- 💻 Websites: [asdatindustries.com](https://asdatindustries.com); [kyudev.xzy](https://kyudev.xzy)...
+- 📫 How to reach me [kyudev.xyz](kyudev.xyz) or Discord: **HexPengu**
+- 💻 Websites: [asdatindustries.com](https://asdatindustries.com); [kyudev.xyz](https://kyudev.xyz)...
 
 <br />
 
