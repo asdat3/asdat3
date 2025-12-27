@@ -6,9 +6,6 @@
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asdat3&hide=prs)](https://kyudev.xyz)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdat3&langs_count=2)](https://kyudev.xyz)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asdat3" alt="asdat3" /> </p>
 
 <hr>
