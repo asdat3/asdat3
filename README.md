@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A german Student. Owner of AsdatIndustries.</h3>
-
+<h3 align="center">A german Guy. Founder of AsdatIndustries.</h3>
 
 - 📫 How to reach me Discord: **HexPengu**
 
